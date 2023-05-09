@@ -20,9 +20,10 @@ let nholder;
 
 function preload(){
    //ld = loadStrings("genesis.txt")
-   ld = loadStrings("hoenoquote.txt")
+   //ld = loadStrings("hoenoquote.txt")
    //ld = loadStrings("frost.txt")
    //ld = loadStrings("airst.txt")
+   ld = loadStrings("newsource.txt")
 
   
   
