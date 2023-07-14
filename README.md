@@ -55,3 +55,6 @@ if you open up the console you can see the current gram and the possible choices
 
 if you open up the object that holds the language model, it may eat up all your ram, so be careful
 
+## version with two texts and display currently being coded on p5 editor
+
+https://editor.p5js.org/greggelong/sketches/ptDAsxapM
